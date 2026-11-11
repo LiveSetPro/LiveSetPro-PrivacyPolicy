@@ -14,7 +14,7 @@ Te damos una licencia personal, limitada, revocable, no exclusiva e intransferib
 
 ## 2. Tu contenido y los derechos de autor
 
-- Eres el único responsable del contenido que escribes, pegas, importas, guardas, exportas o compartes con la app (letras, acordes, partituras, PDF, archivos `.lsp`).
+- Eres el único responsable del contenido que escribes, pegas, importas, guardas, exportas o compartes con la app (letras, acordes, partituras, PDF).
 - Muchas canciones están protegidas por derechos de autor. La app es una herramienta de organización: **no concede ningún derecho** sobre canciones ni contenido de terceros. Debes tener el derecho o el permiso necesarios para cada contenido que uses, y cumplir las leyes de derechos de autor y los términos de los sitios que consultes.
 - No almacenamos tu contenido en servidores ni lo distribuimos; el que guardas está en tu dispositivo. Eres responsable de cómo lo compartas (por ejemplo, un PDF con letras que envíes a otras personas).
 - No uses la app para infringir derechos de terceros. Podemos desactivar funciones, sitios o versiones de la app si recibimos un reclamo fundado o por riesgo legal.
@@ -33,7 +33,7 @@ La app se ofrece **"tal cual" y "según disponibilidad"**, sin garantías de nin
 
 ## 5. Tus datos y copias de seguridad
 
-Tus datos se guardan solo en tu dispositivo. **No hacemos respaldos.** Puedes perder datos por fallas, actualizaciones, errores, cambio o pérdida de dispositivo o desinstalación. Eres responsable de exportar y conservar tus propias copias.
+Tus datos se guardan solo en tu dispositivo. **No hacemos respaldos.** Puedes perder datos por fallas, actualizaciones, errores, cambio o pérdida de dispositivo o desinstalación. Eres responsable de conservar tus propias copias de tu contenido.
 
 ## 6. Limitación de responsabilidad
 
@@ -87,7 +87,7 @@ We grant you a personal, limited, revocable, non-exclusive, non-transferable lic
 
 ## 2. Your content and copyright
 
-- You are solely responsible for content you type, paste, import, save, export or share with the app (lyrics, chords, charts, PDFs, `.lsp` files).
+- You are solely responsible for content you type, paste, import, save, export or share with the app (lyrics, chords, charts, PDFs).
 - Many songs are protected by copyright. The app is an organizing tool: it **grants no rights** to songs or third-party content. You must have the right or permission for each piece of content you use, and comply with copyright law and the terms of any site you visit.
 - We do not store your content on servers or distribute it; what you save is on your device. You are responsible for how you share it (for example, a PDF with lyrics you send to others).
 - Do not use the app to infringe third-party rights. We may disable features, sources or app versions if we receive a substantiated claim or face legal risk.
@@ -106,7 +106,7 @@ The app is provided **"as is" and "as available"**, without warranties of any ki
 
 ## 5. Your data and backups
 
-Your data is stored only on your device. **We make no backups.** You may lose data through failures, updates, bugs, device loss or change, or uninstalling. You are responsible for exporting and keeping your own copies.
+Your data is stored only on your device. **We make no backups.** You may lose data through failures, updates, bugs, device loss or change, or uninstalling. You are responsible for keeping your own copies of your content.
 
 ## 6. Limitation of liability
 

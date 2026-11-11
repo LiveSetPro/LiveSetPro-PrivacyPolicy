@@ -21,7 +21,7 @@ Canciones (título, artista, letra, acordes, tono), sets, fechas, y tus ajustes 
 
 ## Lo que se comparte, y solo por decisión tuya
 
-- **Exportar y compartir.** Si exportas un PDF o un archivo `.lsp`, lo creas en tu dispositivo y lo envías por la hoja de compartir de tu sistema a quien tú elijas. Lo que recibe esa persona o aplicación queda fuera de nuestro control.
+- **Exportar y compartir.** Si exportas un PDF, lo creas en tu dispositivo y lo envías por la hoja de compartir de tu sistema a quien tú elijas. Lo que recibe esa persona o aplicación queda fuera de nuestro control.
 - **Navegador integrado para buscar canciones.** Si usas la búsqueda web de la app, tu dispositivo se conecta **directamente** con sitios de terceros (por ejemplo, sitios de letras y acordes). Esos sitios pueden recopilar datos según sus propias políticas, que debes revisar. Nosotros **no recibimos** tu navegación ni el contenido que copias, y el contenido que elijas guardar queda solo en tu dispositivo.
 - **Servicios de Apple.** La descarga, las compras y las actualizaciones pasan por Apple y Expo (servicio de actualizaciones de la app). Estos servicios pueden registrar datos técnicos básicos del dispositivo (por ejemplo, versión de la app y del sistema) para entregar la actualización. Se rigen por sus propias políticas.
 
@@ -74,7 +74,7 @@ Songs (title, artist, lyrics, chords, key), sets, dates, and your view and langu
 
 ## What is shared, only by your choice
 
-- **Export and share.** If you export a PDF or an `.lsp` file, it is created on your device and sent through your system's share sheet to whomever you choose. What that person or app does with it is outside our control.
+- **Export and share.** If you export a PDF, it is created on your device and sent through your system's share sheet to whomever you choose. What that person or app does with it is outside our control.
 - **In-app browser for finding songs.** If you use the app's web search, your device connects **directly** to third-party sites (for example, lyrics and chord sites). Those sites may collect data under their own policies, which you should review. We **do not receive** your browsing or the content you copy, and anything you choose to save stays on your device only.
 - **Apple and Expo services.** Downloads, purchases and app updates go through Apple and Expo (the app's update service). They may log basic technical information (such as app and OS version) to deliver updates, under their own policies.
 
